@@ -8,9 +8,7 @@ so this is a heading
 #### h4
 ##### h5
 ###### h6
-####### h7
-######## h8
-it goes down to h8
+it goes down to h6
 **this is bold text**
 *this is italics*
 > this is a blockquote

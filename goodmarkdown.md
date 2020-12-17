@@ -27,3 +27,4 @@ this is an horazantal rule
 ```js
 console.log("this is a code block and it supports syntax hilighting")
 ```
+also did i forget ~~strikethrough?~~

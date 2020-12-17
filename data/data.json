@@ -1,5 +1,5 @@
 {
-      token: "this is a token"
-      prefix: "this is a prefix"
+      "token": "this is a token",
+      "prefix": "this is a prefix"
 
 }

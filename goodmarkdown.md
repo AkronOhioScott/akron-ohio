@@ -58,4 +58,4 @@ console.log("this is a code block and it supports syntax hilighting")
 ```
 
 also did i forget ~~strikethrough?~~
-and you can do some emotes like this :roll_eyes: or insert the unicode in the emote (this is the better way to do it and more supported) :\u1F644:
+and you can do some emotes like this :roll_eyes: or insert the unicode in the emote (this is the better way to do it and more supported) :U+1F644:

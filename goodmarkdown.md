@@ -49,6 +49,7 @@ this is an inline image
 
 alt text is in the [] and the link or dir to the photo is in the ()
 for links the link text is in the [] and the link is in the ()
+you can also link to other heddings [like this](h1)
 
 # this is a heading with an id {#8473-342}
 some text to add to it as well
